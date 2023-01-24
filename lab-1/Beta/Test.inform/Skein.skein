@@ -1,0 +1,4573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-0x56022cef9d80" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Inform 7</generator>
+  <activeNode nodeId="node-0x56022cef9d80"/>
+  <item nodeId="node-0x56022cef9d80">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+
+-------------------Important Info---------------------------
+
+ Starting there is  TW for mental health related topics. This game is a game about disassociation and could be a trigger for some. 
+
+The score in the game is bad. Think of it as your sanity load. Get to high and something may happen. Try to get a low score.
+
+You will need to know some commands, most commands are basic however here are two important ones:
+
+Phone Down, and Phone Up. This is how you access the phone. The phone can only be used in the bedroom, it in itself is a room. Treat it as such and potentially explore it.
+
+-------------------Begin--------------------------- 
+I think somethings wrong...
+Something is wrong... by Luke Rowe
+Release 1 / Serial number 230118 / Inform 7 v10.1.2 / D
+
+Phone
+You are on your phone, scrolling endlessly with no end in sight.
+
+A water main broke, leaving New Orleans without drinking water, and the flooding here is getting worse after waters from Lake Pontchartrain broke through a levee. 
+ scroll 
+ The Crips &amp; Bloods tried to establish themselves here, and these guys killed them. Simple as that-gone! See you later! 
+ scroll 
+ Music Intro: Steve Lacy I wish I knew you wanted me I wish I knew, I wish I knew you wanted me I wish I knew, I wish I knew you wanted me 
+
+Slowly you begin to hear a high pitch sound. You start feeling an unease. Maybe you should put the phone down.
+
+You could also stay on your phone in your endless lull.  scrolling, maybe that feeling of unease could just be random. Go and see whats going on with your phone.  What time was it again?
+
+ I also have snapchat  I could go to... not really  a point probably.
+
+ You start with 5 sanity load
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022cef9f00"/>
+      <child nodeId="node-0x56022cf5cd40"/>
+      <child nodeId="node-0x56022d0f0340"/>
+      <child nodeId="node-0x56022d14f440"/>
+      <child nodeId="node-0x56022d14fa40"/>
+      <child nodeId="node-0x56022d176a10"/>
+      <child nodeId="node-0x56022d176e90"/>
+      <child nodeId="node-0x56022d219640"/>
+      <child nodeId="node-0x56022d2197c0"/>
+      <child nodeId="node-0x56022d219940"/>
+      <child nodeId="node-0x56022d219ac0"/>
+      <child nodeId="node-0x56022d219c40"/>
+      <child nodeId="node-0x56022d219dc0"/>
+      <child nodeId="node-0x56022d23f110"/>
+      <child nodeId="node-0x56022d1d71a0"/>
+      <child nodeId="node-0x56022d1d7620"/>
+      <child nodeId="node-0x56022d3292f0"/>
+      <child nodeId="node-0x56022d329770"/>
+      <child nodeId="node-0x56022d3665e0"/>
+      <child nodeId="node-0x56022d381770"/>
+      <child nodeId="node-0x56022ea0af20"/>
+      <child nodeId="node-0x56022ea0a620"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022cef9f00">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Classroom
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022cf5c140"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022cf5c140">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Classroom
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022cf5c2c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022cf5c2c0">
+    <command xml:space="preserve">m</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022cf5c440"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022cf5c440">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022cf5c5c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022cf5c5c0">
+    <command xml:space="preserve">a</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022cf5c740"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022cf5c740">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022cf5c8c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022cf5c8c0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022cf5ca40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022cf5ca40">
+    <command xml:space="preserve">x</command>
+    <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022cf5cbc0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022cf5cbc0">
+    <command xml:space="preserve">x room</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022cf5cd40">
+    <command xml:space="preserve">enter the mind</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022cf5cec0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022cf5cec0">
+    <command xml:space="preserve">help</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d0f01c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d0f01c0">
+    <command xml:space="preserve">h</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d0f0340">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d0f04c0"/>
+      <child nodeId="node-0x56022d0f07c0"/>
+      <child nodeId="node-0x56022d0f0dc0"/>
+      <child nodeId="node-0x56022d10c1c0"/>
+      <child nodeId="node-0x56022d10cac0"/>
+      <child nodeId="node-0x56022d1325d0"/>
+      <child nodeId="node-0x56022d132bd0"/>
+      <child nodeId="node-0x56022d14f2c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d0f04c0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Phone
+You are on your phone, scrolling endlessly with no end in sight. You could possibly keep scrolling diving deeper into the void, the numbing of your mind. Slowly you begin to hear a high pitch sound. You start feeling an unease. Maybe you should put the phone down.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d0f0640"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d0f0640">
+    <command xml:space="preserve">put down the phone</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d0f07c0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d0f0940"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d0f0940">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d0f0ac0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d0f0ac0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Phone
+You are on your phone, scrolling endlessly with no end in sight. You could possibly keep scrolling diving deeper into the void, the numbing of your mind. Slowly you begin to hear a high pitch sound. You start feeling an unease. Maybe you should put the phone down.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d0f0c40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d0f0c40">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Room
+A boring old room
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d0f0dc0">
+    <command xml:space="preserve">pick up water bottle</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d0f0f40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d0f0f40">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:
+  a water bottle
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d10c1c0">
+    <command xml:space="preserve">drink</command>
+    <result xml:space="preserve">(the water bottle)
+There&apos;s nothing suitable to drink here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d10c340"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d10c340">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d10c4c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d10c4c0">
+    <command xml:space="preserve">pick up water bottle</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d10c640"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d10c640">
+    <command xml:space="preserve">drink</command>
+    <result xml:space="preserve">(the water bottle)
+There&apos;s nothing suitable to drink here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d10c7c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d10c7c0">
+    <command xml:space="preserve">drink water bottle</command>
+    <result xml:space="preserve">There&apos;s nothing suitable to drink here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d10c940"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d10c940">
+    <command xml:space="preserve">drink watter</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d10cac0">
+    <command xml:space="preserve">take water</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d10cc40"/>
+      <child nodeId="node-0x56022d132150"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d10cc40">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  Water bottle
+    liquid
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d10cdc0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d10cdc0">
+    <command xml:space="preserve">drink water</command>
+    <result xml:space="preserve">There&apos;s nothing suitable to drink here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d10cf40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d10cf40">
+    <command xml:space="preserve">drink water bottle</command>
+    <result xml:space="preserve">There&apos;s nothing suitable to drink here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d132150">
+    <command xml:space="preserve">drink from water bottle</command>
+    <result xml:space="preserve">You must supply a noun.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1322d0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1322d0">
+    <command xml:space="preserve">x water bottle</command>
+    <result xml:space="preserve">In Water bottle is liquid.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d132450"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d132450">
+    <command xml:space="preserve">examine liquid</command>
+    <result xml:space="preserve">You see nothing special about liquid.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d1325d0">
+    <command xml:space="preserve">drink from water bottle</command>
+    <result xml:space="preserve">There&apos;s nothing suitable to drink here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d132750"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d132750">
+    <command xml:space="preserve">t water</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1328d0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1328d0">
+    <command xml:space="preserve">take water</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d132a50"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d132a50">
+    <command xml:space="preserve">drink from water bottle</command>
+    <result xml:space="preserve">There&apos;s nothing suitable to drink here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d132bd0">
+    <command xml:space="preserve">take bottle</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d132d50"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d132d50">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d132ed0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d132ed0">
+    <command xml:space="preserve">examine bottle</command>
+    <result xml:space="preserve">In Bottle is liquid.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d14f140"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d14f140">
+    <command xml:space="preserve">examine liquid</command>
+    <result xml:space="preserve">Looks like water, smells like nothing maybe  a little bit of metal? It looks off. Did the bottle always feel so heavy?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d14f2c0">
+    <command xml:space="preserve">DP</command>
+    <result xml:space="preserve">
+Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that?
+
+You can see Bottle (in which is liquid) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d14f440">
+    <command xml:space="preserve">put the phone down</command>
+    <result xml:space="preserve">What do you want to put DP in?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d14f5c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d14f5c0">
+    <command xml:space="preserve">put phone down</command>
+    <result xml:space="preserve">What do you want to put DP in?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d14f740"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d14f740">
+    <command xml:space="preserve">phone ddown</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d14f8c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d14f8c0">
+    <command xml:space="preserve">phone down</command>
+    <result xml:space="preserve">
+Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that?
+
+You can see Bottle (in which is liquid) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d14fa40">
+    <command xml:space="preserve">set phone down</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d14fbc0"/>
+      <child nodeId="node-0x56022d176290"/>
+      <child nodeId="node-0x56022d176410"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d14fbc0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that?
+
+You can see Bottle (in which is liquid) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d14fd40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d14fd40">
+    <command xml:space="preserve">take bottle</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d14fec0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d14fec0">
+    <command xml:space="preserve">drink liquid</command>
+    <result xml:space="preserve">There&apos;s nothing suitable to drink here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d176110"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d176110">
+    <command xml:space="preserve">x liquid</command>
+    <result xml:space="preserve">Looks like water, smells like nothing... maybe  a little bit of metal? It looks off. Did the bottle always feel so heavy?
+
+You look back up at your room there is a big blur and your eyes take time to readjust. You flop back into your bed as if picking up the bottle was too exhausting. You begin to get a headache.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d176290">
+    <command xml:space="preserve">put phone down</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d176410">
+    <command xml:space="preserve">set down</command>
+    <result xml:space="preserve">I didn&apos;t understand that sentence.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d176590"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d176590">
+    <command xml:space="preserve">set down</command>
+    <result xml:space="preserve">I didn&apos;t understand that sentence.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d176710"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d176710">
+    <command xml:space="preserve">set</command>
+    <result xml:space="preserve">What do you want to set?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d176890"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d176890">
+    <command xml:space="preserve">down phone</command>
+    <result xml:space="preserve">I didn&apos;t understand that sentence.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d176a10">
+    <command xml:space="preserve">put down the phone</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d176b90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d176b90">
+    <command xml:space="preserve">put down phone</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d176d10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d176d10">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that?
+
+You can see Bottle (in which is liquid) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d176e90">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d18f1a0"/>
+      <child nodeId="node-0x56022d18f620"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d18f1a0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+Bathroom
+Your bathroom, it seems kind of small. The corners of the room seem to be swaying inward. Other than that its a normal bathroom with a shower. Nothing special.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d18f320"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d18f320">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Bathroom
+Your bathroom, it seems kind of small. The corners of the room seem to be swaying inward. Other than that its a normal bathroom with a shower. Nothing special.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d18f4a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d18f4a0">
+    <command xml:space="preserve">x mirror</command>
+    <result xml:space="preserve">A mirror, its reflections seem to be waving at me.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d18f620">
+    <command xml:space="preserve">dp</command>
+    <result xml:space="preserve">
+Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that? Your bathroom is south of the Bedroom, the door to the outside to the east
+
+You can see Bottle (in which is liquid) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d18f7a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d18f7a0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+The Bathroom
+Your bathroom, it seems kind of small. The corners of the room seem to be swaying inward. Other than that its a normal bathroom with a shower. Nothing special. I probably look like shit.
+
+Self is a man sitting in your head, but your thoughts are jumbled
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d18f920"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d18f920">
+    <command xml:space="preserve">shower</command>
+    <result xml:space="preserve">I feel much better after that. Things are starting to feel right again.
+
+[Your score has just gone down by ten points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d18faa0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d18faa0">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">
+Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that? Your bathroom is south of the Bedroom, the door to the outside to the east
+
+You can see Bottle (in which is liquid) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d18fc20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d18fc20">
+    <command xml:space="preserve">score</command>
+    <result xml:space="preserve">You have so far scored -10 out of a possible 0, in 6 turns.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d18fda0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d18fda0">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+
+    *** You made it outside... things start to feel right, you see your friend and talk with them. Your phone stops being so cryptic and you see a message from your girlfriend. You feel relief and you continue your day ***
+
+
+In that game you scored -10 out of a possible 0, in 6 turns.
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d18ff20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d18ff20">
+    <command xml:space="preserve">restart</command>
+    <result xml:space="preserve">
+
+
+
+-------------------Important Info---------------------------
+
+The score in the game is bad. Think of it as your sanity load. Get to high and something may happen.
+
+You will need to know some commands, most commands are basic however here are two important ones:
+
+Phone Down, and Phone Up. This is how you access the phone. The phone can only be used in the bedroom, it in itself is a room. Treat it as such and potentially explore it.
+
+I think somethings wrong...
+Something is wrong... by Luke Rowe
+Release 1 / Serial number 230118 / Inform 7 v10.1.2 / D
+
+Phone
+You are on your phone, scrolling endlessly with no end in sight. You could possibly keep scrolling diving deeper into the void, the numbing of your mind.
+
+A water main broke, leaving New Orleans without drinking water, and the flooding here is getting worse after waters from Lake Pontchartrain broke through a levee. 
+ scroll 
+ The Crips &amp; Bloods tried to establish themselves here, and these guys killed them. Simple as that-gone! See you later! 
+ scroll 
+ Music Intro: Steve Lacy I wish I knew you wanted me I wish I knew, I wish I knew you wanted me I wish I knew, I wish I knew you wanted me 
+
+Slowly you begin to hear a high pitch sound. You start feeling an unease. Maybe you should put the phone down.
+
+Additionally you could continue to scroll. That feeling of unease could just be random. Go and see whats going on with your phone.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1b7130"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1b7130">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">EEEEER, EEEER, STOP STOP STOP, GSCH GSCH GSCH. Waaaackrrr ssshhhh... NOOOOO WHY WHY, WHY WHY
+
+I&apos;m starting to not feel so good.
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by thirteen points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1b72b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1b72b0">
+    <command xml:space="preserve">dp</command>
+    <result xml:space="preserve">
+Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that? Your bathroom is south of the Bedroom, the door to the outside to the east
+
+You can see Bottle (in which is liquid) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1b7430"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1b7430">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">I couldn&apos;t possibly go outside... I feel horrible, something isn&apos;t right
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1b75b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1b75b0">
+    <command xml:space="preserve">drink liquid</command>
+    <result xml:space="preserve">You take a sip of the liquid. You feel a sense that it doesn&apos;t taste right... something isn&apos;t right... you start to feel ill. 
+Hey the headache is subsiding at least, something just doesn&apos;t feel right, your field of vision blurs for a second and comes back to
+[Your score has just gone down by five points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1b7730"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1b7730">
+    <command xml:space="preserve">score</command>
+    <result xml:space="preserve">You have so far scored 8 out of a possible 0, in 5 turns.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1b78b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1b78b0">
+    <command xml:space="preserve">score</command>
+    <result xml:space="preserve">You have so far scored 8 out of a possible 0, in 5 turns.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1b7a30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1b7a30">
+    <command xml:space="preserve">esat</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1b7bb0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1b7bb0">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">I couldn&apos;t possibly go outside... I feel horrible, something isn&apos;t right
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1b7d30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1b7d30">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that? Your bathroom is south of the Bedroom, the door to the outside to the east
+
+You can see Bottle (empty) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1b7eb0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1b7eb0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+The Bathroom
+Your bathroom, it seems kind of small. The corners of the room seem to be swaying inward. Other than that its a normal bathroom with a shower. Nothing special. I probably look like shit.
+
+Self is a man sitting in your head, but your thoughts are jumbled
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d14b140"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d14b140">
+    <command xml:space="preserve">x self</command>
+    <result xml:space="preserve">(Self)
+talking to myself could help a bit... maybe I can figure out what is going on.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d14b2c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d14b2c0">
+    <command xml:space="preserve">talk to self</command>
+    <result xml:space="preserve">(Self)
+What am I doing right now, why is everything so weird. Am I okay? What is happening?
+
+Everything is going to be okay. I should try to do some things that will make me feel better.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d14b440"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d14b440">
+    <command xml:space="preserve">talk to self</command>
+    <result xml:space="preserve">(Self)
+What am I doing right now, why is everything so weird. Am I okay? What is happening?
+
+Everything is going to be okay. I should try to do some things that will make me feel better.
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d14b5c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d14b5c0">
+    <command xml:space="preserve">score</command>
+    <result xml:space="preserve">You have so far scored 11 out of a possible 0, in 11 turns.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d14b740"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d14b740">
+    <command xml:space="preserve">g</command>
+    <result xml:space="preserve">You have so far scored 11 out of a possible 0, in 11 turns.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d14b8c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d14b8c0">
+    <command xml:space="preserve">shower</command>
+    <result xml:space="preserve">I feel much better after that. Things are starting to feel right again.
+
+[Your score has just gone down by ten points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d14ba40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d14ba40">
+    <command xml:space="preserve">shower</command>
+    <result xml:space="preserve">I feel much better after that. Things are starting to feel right again.
+
+[Your score has just gone down by ten points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d14bbc0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d14bbc0">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">
+Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that? Your bathroom is south of the Bedroom, the door to the outside to the east
+
+You can see Bottle (empty) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d14bd40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d14bd40">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+
+    *** You made it outside... things start to feel right, you see your friend and talk with them. Your phone stops being so cryptic and you see a message from your girlfriend. You feel relief and you continue your day ***
+
+
+In that game you scored -9 out of a possible 0, in 14 turns.
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d14bec0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d14bec0">
+    <command xml:space="preserve">restart</command>
+    <result xml:space="preserve">
+
+
+
+-------------------Important Info---------------------------
+
+The score in the game is bad. Think of it as your sanity load. Get to high and something may happen.
+
+You will need to know some commands, most commands are basic however here are two important ones:
+
+Phone Down, and Phone Up. This is how you access the phone. The phone can only be used in the bedroom, it in itself is a room. Treat it as such and potentially explore it.
+
+I think somethings wrong...
+Something is wrong... by Luke Rowe
+Release 1 / Serial number 230118 / Inform 7 v10.1.2 / D
+
+Phone
+You are on your phone, scrolling endlessly with no end in sight. You could possibly keep scrolling diving deeper into the void, the numbing of your mind.
+
+A water main broke, leaving New Orleans without drinking water, and the flooding here is getting worse after waters from Lake Pontchartrain broke through a levee. 
+ scroll 
+ The Crips &amp; Bloods tried to establish themselves here, and these guys killed them. Simple as that-gone! See you later! 
+ scroll 
+ Music Intro: Steve Lacy I wish I knew you wanted me I wish I knew, I wish I knew you wanted me I wish I knew, I wish I knew you wanted me 
+
+Slowly you begin to hear a high pitch sound. You start feeling an unease. Maybe you should put the phone down.
+
+Additionally you could continue to scroll. That feeling of unease could just be random. Go and see whats going on with your phone.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1fe180"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1fe180">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">Bwhahabbsahs. SCHHKKK... (catchy music) sssssssssssssssss...
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1fe300"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1fe300">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">Bwhahabbsahs. SCHHKKK... (catchy music) sssssssssssssssss...
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1fe480"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1fe480">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">Bwhahabbsahs. SCHHKKK... (catchy music) sssssssssssssssss...
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1fe600"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1fe600">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">Bwhahabbsahs. SCHHKKK... (catchy music) sssssssssssssssss...
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1fe780"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1fe780">
+    <command xml:space="preserve">g</command>
+    <result xml:space="preserve">Wamp womp wamp womp... e e e, gir gir tir te..
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1fe900"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1fe900">
+    <command xml:space="preserve">g</command>
+    <result xml:space="preserve">Wamp womp wamp womp... e e e, gir gir tir te..
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1fea80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1fea80">
+    <command xml:space="preserve">g</command>
+    <result xml:space="preserve">Bwhahabbsahs. SCHHKKK... (catchy music) sssssssssssssssss...
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1fec00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1fec00">
+    <command xml:space="preserve">g</command>
+    <result xml:space="preserve">Bwhahabbsahs. SCHHKKK... (catchy music) sssssssssssssssss...
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1fed80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1fed80">
+    <command xml:space="preserve">g</command>
+    <result xml:space="preserve">EEEEER, EEEER, STOP STOP STOP, GSCH GSCH GSCH. Waaaackrrr ssshhhh... NOOOOO WHY WHY, WHY WHY
+
+I&apos;m starting to not feel so good.
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by thirteen points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1fef00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1fef00">
+    <command xml:space="preserve">g</command>
+    <result xml:space="preserve">Bwhahabbsahs. SCHHKKK... (catchy music) sssssssssssssssss...
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d2191c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d2191c0">
+    <command xml:space="preserve">g</command>
+    <result xml:space="preserve">Wamp womp wamp womp... e e e, gir gir tir te..
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d219340"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d219340">
+    <command xml:space="preserve">g</command>
+    <result xml:space="preserve">Wamp womp wamp womp... e e e, gir gir tir te..
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d2194c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d2194c0">
+    <command xml:space="preserve">g</command>
+    <result xml:space="preserve">EEEEER, EEEER, STOP STOP STOP, GSCH GSCH GSCH. Waaaackrrr ssshhhh... NOOOOO WHY WHY, WHY WHY
+
+I&apos;m starting to not feel so good.
+
+
+
+    *** You succumb. You stare at the walls around you and you fade. You get pulled in, you don&apos;t come back. You are now stuck. You never will experience anything else but this hell. You can&apos;t move, you can&apos;t think ***
+
+
+In that game you scored 32 out of a possible 0, in 13 turns.
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d219640">
+    <command xml:space="preserve">hello</command>
+    <result xml:space="preserve">
+Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that?
+
+You can see Bottle (in which is liquid) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d2197c0">
+    <command xml:space="preserve">gg</command>
+    <result xml:space="preserve">
+Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that?
+
+You can see Bottle (in which is liquid) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d219940">
+    <command xml:space="preserve">down phone</command>
+    <result xml:space="preserve">
+Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that?
+
+You can see Bottle (in which is liquid) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d219ac0">
+    <command xml:space="preserve">put phone down</command>
+    <result xml:space="preserve">
+*** Run-time problem P12: Too many activities are going on at once.
+
+
+[ The game has finished ]
+</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d219c40">
+    <command xml:space="preserve">set down phone</command>
+    <result xml:space="preserve">
+*** Run-time problem P12: Too many activities are going on at once.
+
+
+[ The game has finished ]
+</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d219dc0">
+    <command xml:space="preserve">take scroll</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d219f40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d219f40">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">Bwhahabbsahs. SCHHKKK... (catchy music) sssssssssssssssss.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d23f110">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">EEEEER, EEEER, STOP STOP STOP, GSCH GSCH GSCH. Waaaackrrr ssshhhh... NOOOOO WHY WHY, WHY WHY
+
+I&apos;m starting to not feel so good.
+
+[Your score has just gone up by ten points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d23f290"/>
+      <child nodeId="node-0x56022d2c3940"/>
+      <child nodeId="node-0x56022cef9a80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d23f290">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">Bwhahabbsahs. SCHHKKK... (catchy music) sssssssssssssssss...
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d23f410"/>
+      <child nodeId="node-0x56022d29c4a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d23f410">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">Wamp womp wamp womp... e e e, gir gir tir te..
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d23f590"/>
+      <child nodeId="node-0x56022d23fe90"/>
+      <child nodeId="node-0x560232818d90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d23f590">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Phone
+You are on your phone, scrolling endlessly with no end in sight. You could possibly keep scrolling diving deeper into the void, the numbing of your mind. Slowly you begin to hear a high pitch sound. You start feeling an unease. Maybe you should put the phone down. (phone down)
+
+Additionally you could continue to scroll. Maybe like some content? See whats going on with your phone.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d23f710"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d23f710">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Phone
+You are on your phone, scrolling endlessly with no end in sight. You could possibly keep scrolling diving deeper into the void, the numbing of your mind. Slowly you begin to hear a high pitch sound. You start feeling an unease. Maybe you should put the phone down. (phone down)
+
+Additionally you could continue to scroll. Maybe like some content? See whats going on with your phone.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d23f890"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d23f890">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">EEEEER, EEEER, STOP STOP, GSCH GSCH GSCH. Waaaackrrr ssshhhh
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d23fa10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d23fa10">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">EEEEER, EEEER, STOP STOP, GSCH GSCH GSCH. Waaaackrrr ssshhhh
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d23fb90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d23fb90">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">Bwhahabbsahs. SCHHKKK... (catchy music) sssssssssssssssss
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d23fd10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d23fd10">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">EEEEER, EEEER, STOP STOP, GSCH GSCH GSCH. Waaaackrrr ssshhhh
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d23fe90">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">Bwhahabbsahs. SCHHKKK... (catchy music) sssssssssssssssss...
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d25a130"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d25a130">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">Bwhahabbsahs. SCHHKKK... (catchy music) sssssssssssssssss...
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d25a2b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d25a2b0">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">EEEEER, EEEER, STOP STOP STOP, GSCH GSCH GSCH. Waaaackrrr ssshhhh... NOOOOO WHY WHY, WHY WHY
+
+I&apos;m starting to not feel so good.
+
+[Your score has just gone up by ten points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d25a430"/>
+      <child nodeId="node-0x56022d281a50"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d25a430">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">Bwhahabbsahs. SCHHKKK... (catchy music) sssssssssssssssss...
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d25a5b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d25a5b0">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">Bwhahabbsahs. SCHHKKK... (catchy music) sssssssssssssssss...
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d25a730"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d25a730">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">EEEEER, EEEER, STOP STOP STOP, GSCH GSCH GSCH. Waaaackrrr ssshhhh... NOOOOO WHY WHY, WHY WHYIm starting to get not feel good
+[Your score has just gone up by ten points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d25a8b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d25a8b0">
+    <command xml:space="preserve">dp</command>
+    <result xml:space="preserve">
+Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that?
+
+You can see Bottle (in which is liquid) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d25aa30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d25aa30">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that?
+
+You can see Bottle (in which is liquid) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d25abb0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d25abb0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that?
+
+You can see Bottle (in which is liquid) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d25ad30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d25ad30">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that?
+
+You can see Bottle (in which is liquid) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d25aeb0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d25aeb0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d281150"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d281150">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that?
+
+You can see Bottle (in which is liquid) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d2812d0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d2812d0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that?
+
+You can see Bottle (in which is liquid) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d281450"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d281450">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that?
+
+You can see Bottle (in which is liquid) here.
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d2815d0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d2815d0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d281750"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d281750">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that?
+
+You can see Bottle (in which is liquid) here.
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d2818d0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d2818d0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d281a50">
+    <command xml:space="preserve">score</command>
+    <result xml:space="preserve">You have so far scored 16 out of a possible 0, in 7 turns.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d281bd0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d281bd0">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">Wamp womp wamp womp... e e e, gir gir tir te..
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d281d50"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d281d50">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">EEEEER, EEEER, STOP STOP STOP, GSCH GSCH GSCH. Waaaackrrr ssshhhh... NOOOOO WHY WHY, WHY WHY
+
+I&apos;m starting to not feel so good.
+
+
+
+    *** You succumb. You stare at the walls around you and you fade. You get pulled in, you don&apos;t come back. You are now stuck. You never will experience anything else but this hell. You can&apos;t move, you can&apos;t think ***
+
+
+In that game you scored 26 out of a possible 0, in 8 turns.
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d281ed0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d281ed0">
+    <command xml:space="preserve">restart</command>
+    <result xml:space="preserve">
+
+
+
+-------------------Important Info---------------------------
+
+The score in the game is bad. Think of it as your sanity load. Get to high and something may happen.
+
+You will need to know some commands, most commands are basic however here are two important ones:
+
+Phone Down, and Phone Up. This is how you access the phone. The phone can only be used in the bedroom, it in itself is a room. Treat it as such and potentially explore it.
+
+I think somethings wrong...
+Something is wrong... by Luke Rowe
+Release 1 / Serial number 230118 / Inform 7 v10.1.2 / D
+
+Phone
+You are on your phone, scrolling endlessly with no end in sight. You could possibly keep scrolling diving deeper into the void, the numbing of your mind.
+
+A water main broke, leaving New Orleans without drinking water, and the flooding here is getting worse after waters from Lake Pontchartrain broke through a levee. 
+ scroll 
+ The Crips &amp; Bloods tried to establish themselves here, and these guys killed them. Simple as that-gone! See you later! 
+ scroll 
+ Music Intro: Steve Lacy I wish I knew you wanted me I wish I knew, I wish I knew you wanted me I wish I knew, I wish I knew you wanted me 
+
+Slowly you begin to hear a high pitch sound. You start feeling an unease. Maybe you should put the phone down.
+
+Additionally you could continue to scroll. That feeling of unease could just be random. Go and see whats going on with your phone. What time was it again?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d29c1a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d29c1a0">
+    <command xml:space="preserve">dp</command>
+    <result xml:space="preserve">
+Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that? Your bathroom is south of the Bedroom, the door to the outside to the east
+
+You can see Bottle (in which is liquid) here.
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d29c320"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d29c320">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+The Bathroom
+Your bathroom, it seems kind of small. The corners of the room seem to be swaying inward. Other than that its a normal bathroom with a shower. Nothing special. I probably look like shit.
+
+Self is a man sitting in your head, but your thoughts are jumbled
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x560232818d90">
+    <command xml:space="preserve">dp</command>
+    <result xml:space="preserve">
+Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that? Your bathroom is south of the Bedroom, the door to the outside to the east
+
+You can see Bottle (in which is liquid) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022ebf7f30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022ebf7f30">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that? Your bathroom is south of the Bedroom, the door to the outside to the east
+
+You can see Bottle (in which is liquid) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022ed0d460"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022ed0d460">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that? Your bathroom is south of the Bedroom, the door to the outside to the east
+
+You can see Bottle (in which is liquid) here.
+
+ You lose sight of what you are doing. You put your hands up and they look oddly distant. You say:
+
+ Are these even my hands?
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022ecda920"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022ecda920">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that? Your bathroom is south of the Bedroom, the door to the outside to the east
+
+You can see Bottle (in which is liquid) here.
+
+ Your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+
+
+    *** You succumb. You stare at the walls around you and you fade. You get pulled in, you don&apos;t come back. You are now stuck. You never will experience anything else but this hell. You can&apos;t move, you can&apos;t think ***
+
+
+In that game you scored 21 out of a possible 0, in 7 turns.
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d29c4a0">
+    <command xml:space="preserve">dp</command>
+    <result xml:space="preserve">
+Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that? Your bathroom is south of the Bedroom, the door to the outside to the east
+
+You can see Bottle (in which is liquid) here.
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d29c620"/>
+      <child nodeId="node-0x56022d29c7a0"/>
+      <child nodeId="node-0x56022d29caa0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d29c620">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">bruh
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d29c7a0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that?
+
+You can see Bottle (in which is liquid) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d29c920"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d29c920">
+    <command xml:space="preserve">take bottle</command>
+    <result xml:space="preserve">Taken.
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by five points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d29caa0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+Bathroom
+Your bathroom, it seems kind of small. The corners of the room seem to be swaying inward. Other than that its a normal bathroom with a shower. Nothing special. I probably look like shit.
+
+Self is a man sitting in your head, but your thoughts are jumbled
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d29cc20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d29cc20">
+    <command xml:space="preserve">shower</command>
+    <result xml:space="preserve">I feel much better after that. Things are starting to feel right again.
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone down by seven points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d29cda0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d29cda0">
+    <command xml:space="preserve">shower</command>
+    <result xml:space="preserve">I feel much better after that. Things are starting to feel right again.
+
+[Your score has just gone down by ten points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d29cf20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d29cf20">
+    <command xml:space="preserve">shower</command>
+    <result xml:space="preserve">I feel much better after that. Things are starting to feel right again.
+
+[Your score has just gone down by ten points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d2c31c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d2c31c0">
+    <command xml:space="preserve">shower</command>
+    <result xml:space="preserve">I feel much better after that. Things are starting to feel right again.
+
+[Your score has just gone down by ten points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d2c3340"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d2c3340">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d2c34c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d2c34c0">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d2c3640"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d2c3640">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d2c37c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d2c37c0">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d2c3940">
+    <command xml:space="preserve">dp</command>
+    <result xml:space="preserve">
+Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that?
+
+You can see Bottle (in which is liquid) here.
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d2c3ac0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d2c3ac0">
+    <command xml:space="preserve">drink bottle</command>
+    <result xml:space="preserve">There&apos;s nothing suitable to drink here.
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d2c3c40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d2c3c40">
+    <command xml:space="preserve">take bottle</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d2c3dc0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d2c3dc0">
+    <command xml:space="preserve">drink bottle</command>
+    <result xml:space="preserve">There&apos;s nothing suitable to drink here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d2c3f40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d2c3f40">
+    <command xml:space="preserve">drink liquid</command>
+    <result xml:space="preserve">You take a sip of the liquid. You feel a sense that it doesn&apos;t taste right... something isn&apos;t right... you start to feel illHey the headache is subsiding at least, something just doesn&apos;t feel right, your field of vision blurs for a second and comes back to
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022cef9a80">
+    <command xml:space="preserve">down phone</command>
+    <result xml:space="preserve">
+Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that? Your bathroom is south of the Bedroom, the door to the outside to the east
+
+You can see Bottle (in which is liquid) here.
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d3a8ec0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d3a8ec0">
+    <command xml:space="preserve">x bottle</command>
+    <result xml:space="preserve">In Bottle is liquid.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022e4bc410"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022e4bc410">
+    <command xml:space="preserve">x liquid</command>
+    <result xml:space="preserve">Looks like water, smells like nothing... maybe  a little bit of metal? It looks off. Did the bottle always feel so heavy?
+
+You look back up at your room there is a big blur and your eyes take time to readjust. You flop back into your bed as if picking up the bottle was too exhausting. You begin to get a headache.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d1d71a0">
+    <command xml:space="preserve">scrol</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1d7320"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1d7320">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">Bwhahabbsahs. SCHHKKK... (catchy music) sssssssssssssssss...
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1d74a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1d74a0">
+    <command xml:space="preserve">quit</command>
+    <result xml:space="preserve">Are you sure you want to quit? </result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d1d7620">
+    <command xml:space="preserve">dp</command>
+    <result xml:space="preserve">
+Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that? Your bathroom is south of the Bedroom, the door to the outside to the east
+
+You can see Bottle (in which is liquid) here.
+
+ Your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1d77a0"/>
+      <child nodeId="node-0x56022d30f490"/>
+      <child nodeId="node-0x56022e4bc110"/>
+      <child nodeId="node-0x56022eb064c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1d77a0">
+    <command xml:space="preserve">take bottle</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1d7920"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1d7920">
+    <command xml:space="preserve">drink liquid</command>
+    <result xml:space="preserve">There&apos;s nothing suitable to drink here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1d7aa0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1d7aa0">
+    <command xml:space="preserve">drink</command>
+    <result xml:space="preserve">(Bottle)
+There&apos;s nothing suitable to drink here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1d7c20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1d7c20">
+    <command xml:space="preserve">drink bottle</command>
+    <result xml:space="preserve">There&apos;s nothing suitable to drink here.
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1d7da0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1d7da0">
+    <command xml:space="preserve">drink</command>
+    <result xml:space="preserve">(Bottle)
+There&apos;s nothing suitable to drink here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d1d7f20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d1d7f20">
+    <command xml:space="preserve">drink bottle</command>
+    <result xml:space="preserve">There&apos;s nothing suitable to drink here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d30f190"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d30f190">
+    <command xml:space="preserve">x bottle</command>
+    <result xml:space="preserve">In Bottle is liquid.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d30f310"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d30f310">
+    <command xml:space="preserve">drink bottle</command>
+    <result xml:space="preserve">There&apos;s nothing suitable to drink here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d30f490">
+    <command xml:space="preserve">drink liquid</command>
+    <result xml:space="preserve">You take a sip of the liquid. You feel a sense that it doesn&apos;t taste right... something isn&apos;t right... you start to feel ill. 
+Hey the headache is subsiding at least, something just doesn&apos;t feel right, your field of vision blurs for a second and comes back to
+[Your score has just gone down by five points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d30f610"/>
+      <child nodeId="node-0x56022d30fc10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d30f610">
+    <command xml:space="preserve">drink liquid</command>
+    <result xml:space="preserve">You take a sip of the liquid. You feel a sense that it doesn&apos;t taste right... something isn&apos;t right... you start to feel ill. 
+Hey the headache is subsiding at least, something just doesn&apos;t feel right, your field of vision blurs for a second and comes back to
+There&apos;s nothing suitable to drink here.
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d30f790"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d30f790">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d30f910"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d30f910">
+    <command xml:space="preserve">drink liquid</command>
+    <result xml:space="preserve">You take a sip of the liquid. You feel a sense that it doesn&apos;t taste right... something isn&apos;t right... you start to feel ill. 
+Hey the headache is subsiding at least, something just doesn&apos;t feel right, your field of vision blurs for a second and comes back to
+There&apos;s nothing suitable to drink here.
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d30fa90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d30fa90">
+    <command xml:space="preserve">drink liquid</command>
+    <result xml:space="preserve">You take a sip of the liquid. You feel a sense that it doesn&apos;t taste right... something isn&apos;t right... you start to feel ill. 
+Hey the headache is subsiding at least, something just doesn&apos;t feel right, your field of vision blurs for a second and comes back to
+There&apos;s nothing suitable to drink here.
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d30fc10">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d30fd90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d30fd90">
+    <command xml:space="preserve">drink liquid</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d30ff10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d30ff10">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that?
+
+You can see Bottle (empty) here.
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d329170"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d329170">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that?
+
+You can see Bottle (empty) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022e4bc110">
+    <command xml:space="preserve">x bottle</command>
+    <result xml:space="preserve">I wonder whats in here
+
+In Bottle is liquid.
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022bfa6a90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022bfa6a90">
+    <command xml:space="preserve">x bottle</command>
+    <result xml:space="preserve">I wonder whats in here
+
+In Bottle is liquid.
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022e4bc890"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022e4bc890">
+    <command xml:space="preserve">drink</command>
+    <result xml:space="preserve">(Bottle)
+There&apos;s nothing suitable to drink here.
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022e4bcd10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022e4bcd10">
+    <command xml:space="preserve">take bottle</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022ecda320"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022ecda320">
+    <command xml:space="preserve">drink bottle</command>
+    <result xml:space="preserve">There&apos;s nothing suitable to drink here.
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022ecda7a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022ecda7a0">
+    <command xml:space="preserve">drink liquid</command>
+    <result xml:space="preserve">You take a sip of the liquid. You feel a sense that it doesn&apos;t taste right... something isn&apos;t right... you start to feel ill. 
+Hey the headache is subsiding at least, something just doesn&apos;t feel right, your field of vision blurs for a second and comes back to
+[Your score has just gone down by five points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022ecdac20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022ecdac20">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that? Your bathroom is south of the Bedroom, the door to the outside to the east
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022ed0d160"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022ed0d160">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">I couldn&apos;t possibly go outside... I feel horrible, something isn&apos;t right
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022ed0d5e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022ed0d5e0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+The Bathroom
+Your bathroom, it seems kind of small. The corners of the room seem to be swaying inward. Other than that its a normal bathroom with a shower. Nothing special. I probably look like shit.
+
+Self is a man sitting in your head, but your thoughts are jumbled.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022ed0da60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022ed0da60">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022ed0dee0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022ed0dee0">
+    <command xml:space="preserve">talk self</command>
+    <result xml:space="preserve">I didn&apos;t understand that sentence.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022e85a430"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022e85a430">
+    <command xml:space="preserve">talk to self</command>
+    <result xml:space="preserve">(Self)
+What am I doing right now, why is everything so weird. Am I okay? What is happening?
+
+Everything is going to be okay. I should try to do some things that will make me feel better.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022e85a8b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022e85a8b0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">The Bathroom
+Your bathroom, it seems kind of small. The corners of the room seem to be swaying inward. Other than that its a normal bathroom with a shower. Nothing special. I probably look like shit.
+
+Self is a man sitting in your head, but your thoughts are jumbled.
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022e85ad30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022e85ad30">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022ea0a320"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022ea0a320">
+    <command xml:space="preserve">x mirror</command>
+    <result xml:space="preserve">Man I look horrible... why does my face look like that? I haven&apos;t taken a shower all day... I look like shit, I look like shit. There&apos;s something wrong with the perspective... I can&apos;t seem to make myself look right
+
+
+    *** You succumb. You stare at the walls around you and you fade. You get pulled in, you don&apos;t come back. You are now stuck. You never will experience anything else but this hell. You can&apos;t move, you can&apos;t think ***
+
+
+In that game you scored 26 out of a possible 0, in 13 turns.
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022ea0a7a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022ea0a7a0">
+    <command xml:space="preserve">restart</command>
+    <result xml:space="preserve">
+
+
+
+-------------------Important Info---------------------------
+
+The score in the game is bad. Think of it as your sanity load. Get to high and something may happen.
+
+You will need to know some commands, most commands are basic however here are two important ones:
+
+Phone Down, and Phone Up. This is how you access the phone. The phone can only be used in the bedroom, it in itself is a room. Treat it as such and potentially explore it.
+
+-------------------Begin--------------------------- 
+I think somethings wrong...
+Something is wrong... by Luke Rowe
+Release 1 / Serial number 230118 / Inform 7 v10.1.2 / D
+
+Phone
+You are on your phone, scrolling endlessly with no end in sight. You could possibly keep scrolling diving deeper into the void, the numbing of your mind.
+
+A water main broke, leaving New Orleans without drinking water, and the flooding here is getting worse after waters from Lake Pontchartrain broke through a levee. 
+ scroll 
+ The Crips &amp; Bloods tried to establish themselves here, and these guys killed them. Simple as that-gone! See you later! 
+ scroll 
+ Music Intro: Steve Lacy I wish I knew you wanted me I wish I knew, I wish I knew you wanted me I wish I knew, I wish I knew you wanted me 
+
+Slowly you begin to hear a high pitch sound. You start feeling an unease. Maybe you should put the phone down.
+
+Additionally you could continue to scroll. That feeling of unease could just be random. Go and see whats going on with your phone. What time was it again?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022ea0ac20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022ea0ac20">
+    <command xml:space="preserve">dp</command>
+    <result xml:space="preserve">
+Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that? Your bathroom is south of the Bedroom, the door to the outside to the east
+
+You can see Bottle (in which is liquid) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022eb061c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022eb061c0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+The Bathroom
+Your bathroom, it seems kind of small. The corners of the room seem to be swaying inward. Other than that its a normal bathroom with a shower. Nothing special. I probably look like shit.
+
+Self is a man sitting in your head, but your thoughts are jumbled.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022eb06640"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022eb06640">
+    <command xml:space="preserve">x self</command>
+    <result xml:space="preserve">(Self)
+talking to myself could help a bit... maybe I can figure out what is going on.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022eb06ac0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022eb06ac0">
+    <command xml:space="preserve">x mirror</command>
+    <result xml:space="preserve">Man I look horrible... why does my face look like that? I haven&apos;t taken a shower all day... I look like shit, I look like shit. There&apos;s something wrong with the perspective... I can&apos;t seem to make myself look right
+[Your score has just gone up by ten points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022eb06f40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022eb06f40">
+    <command xml:space="preserve">shower</command>
+    <result xml:space="preserve">I feel much better after that. Things are starting to feel right again.
+
+[Your score has just gone down by ten points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022ebf74b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022ebf74b0">
+    <command xml:space="preserve">shower</command>
+    <result xml:space="preserve">I feel much better after that. Things are starting to feel right again.
+
+[Your score has just gone down by ten points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022eb064c0">
+    <command xml:space="preserve">score</command>
+    <result xml:space="preserve">You have so far scored 8 out of a possible 0, in 2 turns.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d3292f0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Phone
+You are on your phone, scrolling endlessly with no end in sight. You could possibly keep scrolling diving deeper into the void, the numbing of your mind.
+
+A water main broke, leaving New Orleans without drinking water, and the flooding here is getting worse after waters from Lake Pontchartrain broke through a levee. 
+ scroll 
+ The Crips &amp; Bloods tried to establish themselves here, and these guys killed them. Simple as that-gone! See you later! 
+ scroll 
+ Music Intro: Steve Lacy I wish I knew you wanted me I wish I knew, I wish I knew you wanted me I wish I knew, I wish I knew you wanted me 
+
+Slowly you begin to hear a high pitch sound. You start feeling an unease. Maybe you should put the phone down.
+
+Additionally you could continue to scroll. That feeling of unease could just be random. Go and see whats going on with your phone.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d329470"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d329470">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">Wamp womp wamp womp... e e e, gir gir tir te..
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d3295f0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d3295f0">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">EEEEER, EEEER, STOP STOP STOP, GSCH GSCH GSCH. Waaaackrrr ssshhhh... NOOOOO WHY WHY, WHY WHYIm starting to get not feel good
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by thirteen points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d329770">
+    <command xml:space="preserve">shower</command>
+    <result xml:space="preserve">Take a shower, why would I do that, i&apos;m just sitting here and things aren&apos;t feeling right, it seems like the last thing I want to do. It&apos;s just not right
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d3298f0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d3298f0">
+    <command xml:space="preserve">dp</command>
+    <result xml:space="preserve">
+Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that? Your bathroom is south of the Bedroom, the door to the outside to the east
+
+You can see Bottle (in which is liquid) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d329a70"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d329a70">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+Bathroom
+Your bathroom, it seems kind of small. The corners of the room seem to be swaying inward. Other than that its a normal bathroom with a shower. Nothing special. I probably look like shit.
+
+Your thoughts are jumbled
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d329bf0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d329bf0">
+    <command xml:space="preserve">shower</command>
+    <result xml:space="preserve">I feel much better after that. Things are starting to feel right again.
+
+[Your score has just gone down by ten points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d329d70"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d329d70">
+    <command xml:space="preserve">shower</command>
+    <result xml:space="preserve">I feel much better after that. Things are starting to feel right again.
+
+[Your score has just gone down by ten points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d329ef0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d329ef0">
+    <command xml:space="preserve">talk to self</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d366160"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d366160">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Bathroom
+Your bathroom, it seems kind of small. The corners of the room seem to be swaying inward. Other than that its a normal bathroom with a shower. Nothing special. I probably look like shit.
+
+Your thoughts are jumbled
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d3662e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d3662e0">
+    <command xml:space="preserve">x self</command>
+    <result xml:space="preserve">(Self)
+talking to myself could help a bit... maybe I can figure out what is going o.
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d366460"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d366460">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d3665e0">
+    <command xml:space="preserve">check the time</command>
+    <result xml:space="preserve">The time is 12:13, it way to early for this to be happening. Normally it&apos;s only at night this happens... what am I doing
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by six points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d366760"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d366760">
+    <command xml:space="preserve">room</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d3668e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d3668e0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d366a60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d366a60">
+    <command xml:space="preserve">dp</command>
+    <result xml:space="preserve">
+Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that? Your bathroom is south of the Bedroom, the door to the outside to the east
+
+You can see Bottle (in which is liquid) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d366be0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d366be0">
+    <command xml:space="preserve">check the time</command>
+    <result xml:space="preserve">The time? What about it, it&apos;s probably late... too late... what am I even doing right now I don&apos;t have my phone, i&apos;m stupid what does it even matter.
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by nine points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d366d60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d366d60">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+The Bathroom
+Your bathroom, it seems kind of small. The corners of the room seem to be swaying inward. Other than that its a normal bathroom with a shower. Nothing special. I probably look like shit.
+
+Self is a man sitting in your head, but your thoughts are jumbled
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d366ee0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d366ee0">
+    <command xml:space="preserve">talk to self</command>
+    <result xml:space="preserve">(Self)
+What am I doing right now, why is everything so weird. Am I okay? What is happening?
+
+Everything is going to be okay. I should try to do some things that will make me feel better.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d381170"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d381170">
+    <command xml:space="preserve">talk to self</command>
+    <result xml:space="preserve">(Self)
+What am I doing right now, why is everything so weird. Am I okay? What is happening?
+
+Everything is going to be okay. I should try to do some things that will make me feel better.
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d3812f0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d3812f0">
+    <command xml:space="preserve">talk to self</command>
+    <result xml:space="preserve">(Self)
+What am I doing right now, why is everything so weird. Am I okay? What is happening?
+
+Everything is going to be okay. I should try to do some things that will make me feel better.
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d381470"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d381470">
+    <command xml:space="preserve">score</command>
+    <result xml:space="preserve">You have so far scored 21 out of a possible 0, in 8 turns.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d3815f0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d3815f0">
+    <command xml:space="preserve">talk to self</command>
+    <result xml:space="preserve">(Self)
+What am I doing right now, why is everything so weird. Am I okay? What is happening?
+
+Everything is going to be okay. I should try to do some things that will make me feel better.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d381770">
+    <command xml:space="preserve">check time</command>
+    <result xml:space="preserve">The time is 12:13, it way to early for this to be happening. Normally it&apos;s only at night this happens... what am I doing
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d3818f0"/>
+      <child nodeId="node-0x56022d3a8140"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d3818f0">
+    <command xml:space="preserve">check time</command>
+    <result xml:space="preserve">The time is 12:13, it way to early for this to be happening. Normally it&apos;s only at night this happens... what am I doing
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d381a70"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d381a70">
+    <command xml:space="preserve">score</command>
+    <result xml:space="preserve">You have so far scored 9 out of a possible 0, in 3 turns.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d381bf0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d381bf0">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">Wamp womp wamp womp... e e e, gir gir tir te..
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d381d70"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d381d70">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">EEEEER, EEEER, STOP STOP STOP, GSCH GSCH GSCH. Waaaackrrr ssshhhh... NOOOOO WHY WHY, WHY WHY
+
+I&apos;m starting to not feel so good.
+
+[Your score has just gone up by ten points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d381ef0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d381ef0">
+    <command xml:space="preserve">score</command>
+    <result xml:space="preserve">You have so far scored 19 out of a possible 0, in 5 turns.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022d3a8140">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">Bwhahabbsahs. SCHHKKK... (catchy music) sssssssssssssssss...
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d3a82c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d3a82c0">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">Bwhahabbsahs. SCHHKKK... (catchy music) sssssssssssssssss...
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d3a8440"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d3a8440">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">Wamp womp wamp womp... e e e, gir gir tir te..
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d3a85c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d3a85c0">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">Bwhahabbsahs. SCHHKKK... (catchy music) sssssssssssssssss...
+
+ your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d3a8740"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d3a8740">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">EEEEER, EEEER, STOP STOP STOP, GSCH GSCH GSCH. Waaaackrrr ssshhhh... NOOOOO WHY WHY, WHY WHY
+
+I&apos;m starting to not feel so good.
+
+You succumb. You stare at the walls around you and you fade. You get pulled in, you don&apos;t come back. You are now stuck. You never will experience anything else but this hell. You can&apos;t move, you can&apos;t think
+[Your score has just gone up by ten points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d3a88c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d3a88c0">
+    <command xml:space="preserve">score</command>
+    <result xml:space="preserve">You have so far scored 19 out of a possible 0, in 7 turns.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022d3a8a40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022d3a8a40">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">Wamp womp wamp womp... e e e, gir gir tir te..
+
+You succumb. You stare at the walls around you and you fade. You get pulled in, you don&apos;t come back. You are now stuck. You never will experience anything else but this hell. You can&apos;t move, you can&apos;t think
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022ea0af20">
+    <command xml:space="preserve">snapchat</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022ebf7330"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022ebf7330">
+    <command xml:space="preserve">x snapchat</command>
+    <result xml:space="preserve">Hey my girlfriend sent me something, it says:
+
+Can I come over tonight? I can drive you to school tomorrow if you&apos;d like :)
+
+That was nice, I wish she could but I feel like shit right now... I gotta get in better shape.
+
+[Your score has just gone down by five points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56022ea0a620">
+    <command xml:space="preserve">scrolling</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022ea0aaa0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022ea0aaa0">
+    <command xml:space="preserve">scroll</command>
+    <result xml:space="preserve">EEEEER, EEEER, STOP STOP STOP, GSCH GSCH GSCH. Waaaackrrr ssshhhh... NOOOOO WHY WHY, WHY WHY
+
+I&apos;m starting to not feel so good.
+
+[Your score has just gone up by ten points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022ea0a1a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022ea0a1a0">
+    <command xml:space="preserve">snapchat</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022e85a130"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022e85a130">
+    <command xml:space="preserve">x snapchat</command>
+    <result xml:space="preserve">Hey my girlfriend sent me something, it says:
+
+Can I come over tonight? I can drive you to school tomorrow if you&apos;d like :)
+
+That was nice, I wish she could but I feel like shit right now... I gotta get in better shape.
+
+[Your score has just gone down by five points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022e85aeb0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022e85aeb0">
+    <command xml:space="preserve">x time</command>
+    <result xml:space="preserve">The time is 12:13, it way to early for this to be happening. Normally it&apos;s only at night this happens... what am I doing
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022ea0ada0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022ea0ada0">
+    <command xml:space="preserve">time</command>
+    <result xml:space="preserve">The time is 12:13, it way to early for this to be happening. Normally it&apos;s only at night this happens... what am I doing
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022eb06c40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022eb06c40">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Phone
+You are on your phone, scrolling endlessly with no end in sight.
+
+A water main broke, leaving New Orleans without drinking water, and the flooding here is getting worse after waters from Lake Pontchartrain broke through a levee. 
+ scroll 
+ The Crips &amp; Bloods tried to establish themselves here, and these guys killed them. Simple as that-gone! See you later! 
+ scroll 
+ Music Intro: Steve Lacy I wish I knew you wanted me I wish I knew, I wish I knew you wanted me I wish I knew, I wish I knew you wanted me 
+
+Slowly you begin to hear a high pitch sound. You start feeling an unease. Maybe you should put the phone down.
+
+You could also stay on your phone in your endless lull.  scrolling , maybe that feeling of unease could just be random. Go and see whats going on with your phone.  What time was it again?
+
+ I also have snapchat  I could go to... not really  a point probably.
+
+ You start with 5 sanity load
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022bfa6c10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022bfa6c10">
+    <command xml:space="preserve">dp</command>
+    <result xml:space="preserve">
+Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that? Your bathroom is south of the Bedroom, the door to the outside to the east
+
+You can see Bottle (in which is liquid) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022e4bce90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022e4bce90">
+    <command xml:space="preserve">x bottle</command>
+    <result xml:space="preserve">I wonder whats in here?
+
+In Bottle is liquid.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022e4bcb90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022e4bcb90">
+    <command xml:space="preserve">x liquid</command>
+    <result xml:space="preserve">Looks like water, smells like nothing... maybe  a little bit of metal? It looks off. Did the bottle always feel so heavy?
+
+You look back up at your room there is a big blur and your eyes take time to readjust. You flop back into your bed as if picking up the bottle was too exhausting. You begin to get a headache.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022ecdada0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022ecdada0">
+    <command xml:space="preserve">drink liquid</command>
+    <result xml:space="preserve">You take a sip of the liquid. You feel a sense that it doesn&apos;t taste right... something isn&apos;t right... you start to feel ill. 
+Hey the headache is subsiding at least, something just doesn&apos;t feel right, your field of vision blurs for a second and comes back to
+[Your score has just gone down by five points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022ecdaaa0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022ecdaaa0">
+    <command xml:space="preserve">x liquid</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022ed0d760"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022ed0d760">
+    <command xml:space="preserve">restart</command>
+    <result xml:space="preserve">Are you sure you want to restart? </result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022ed0d8e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022ed0d8e0">
+    <command xml:space="preserve">yes</command>
+    <result xml:space="preserve">
+
+
+
+-------------------Important Info---------------------------
+
+The score in the game is bad. Think of it as your sanity load. Get to high and something may happen.
+
+You will need to know some commands, most commands are basic however here are two important ones:
+
+Phone Down, and Phone Up. This is how you access the phone. The phone can only be used in the bedroom, it in itself is a room. Treat it as such and potentially explore it.
+
+-------------------Begin--------------------------- 
+I think somethings wrong...
+Something is wrong... by Luke Rowe
+Release 1 / Serial number 230118 / Inform 7 v10.1.2 / D
+
+Phone
+You are on your phone, scrolling endlessly with no end in sight.
+
+A water main broke, leaving New Orleans without drinking water, and the flooding here is getting worse after waters from Lake Pontchartrain broke through a levee. 
+ scroll 
+ The Crips &amp; Bloods tried to establish themselves here, and these guys killed them. Simple as that-gone! See you later! 
+ scroll 
+ Music Intro: Steve Lacy I wish I knew you wanted me I wish I knew, I wish I knew you wanted me I wish I knew, I wish I knew you wanted me 
+
+Slowly you begin to hear a high pitch sound. You start feeling an unease. Maybe you should put the phone down.
+
+You could also stay on your phone in your endless lull.  scrolling , maybe that feeling of unease could just be random. Go and see whats going on with your phone.  What time was it again?
+
+ I also have snapchat  I could go to... not really  a point probably.
+
+ You start with 5 sanity load
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022ebf71b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022ebf71b0">
+    <command xml:space="preserve">dp</command>
+    <result xml:space="preserve">
+Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that? Your bathroom is south of the Bedroom, the door to the outside to the east
+
+You can see Bottle (in which is liquid) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56022ebf7c30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56022ebf7c30">
+    <command xml:space="preserve">x liquid</command>
+    <result xml:space="preserve">Looks like water, smells like nothing... maybe  a little bit of metal? It looks off. Did the bottle always feel so heavy?
+
+You look back up at your room there is a big blur and your eyes take time to readjust. You flop back into your bed as if picking up the bottle was too exhausting. You begin to get a headache.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x560232818190"/>
+    </children>
+  </item>
+  <item nodeId="node-0x560232818190">
+    <command xml:space="preserve">drink liquid</command>
+    <result xml:space="preserve">You take a sip of the liquid. You feel a sense that it doesn&apos;t taste right... something isn&apos;t right... you start to feel ill. 
+Hey the headache is subsiding at least, something just doesn&apos;t feel right, your field of vision blurs for a second and comes back to
+[Your score has just gone down by five points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x560232818610"/>
+    </children>
+  </item>
+  <item nodeId="node-0x560232818610">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+The Bathroom
+Your bathroom, it seems kind of small. The corners of the room seem to be swaying inward. Other than that its a normal bathroom with a shower. Nothing special. I probably look like shit.
+
+Self is a man sitting in your head, but your thoughts are jumbled.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x560232818a90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x560232818a90">
+    <command xml:space="preserve">x mirror</command>
+    <result xml:space="preserve">Man I look horrible... why does my face look like that? I haven&apos;t taken a shower all day... I look like shit, I look like shit. There&apos;s something wrong with the perspective... I can&apos;t seem to make myself look right
+[Your score has just gone up by ten points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x560232818f10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x560232818f10">
+    <command xml:space="preserve">shower</command>
+    <result xml:space="preserve">I feel much better after that. Things are starting to feel right again.
+
+[Your score has just gone down by ten points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56023225a440"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56023225a440">
+    <command xml:space="preserve">shower</command>
+    <result xml:space="preserve">I feel much better after that. Things are starting to feel right again.
+
+[Your score has just gone down by ten points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56023225a8c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56023225a8c0">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">
+Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that? Your bathroom is south of the Bedroom, the door to the outside to the east
+
+You can see Bottle (empty) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56023225ad40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56023225ad40">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+
+    *** You made it outside... things start to feel right, you see your friend and talk with them. Your phone stops being so cryptic and you see a message from your girlfriend. You feel relief and you continue your day ***
+
+
+In that game you scored -10 out of a possible 0, in 9 turns.
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x5602322b7300"/>
+    </children>
+  </item>
+  <item nodeId="node-0x5602322b7300">
+    <command xml:space="preserve">restart</command>
+    <result xml:space="preserve">
+
+
+
+-------------------Important Info---------------------------
+
+The score in the game is bad. Think of it as your sanity load. Get to high and something may happen.
+
+You will need to know some commands, most commands are basic however here are two important ones:
+
+Phone Down, and Phone Up. This is how you access the phone. The phone can only be used in the bedroom, it in itself is a room. Treat it as such and potentially explore it.
+
+-------------------Begin--------------------------- 
+I think somethings wrong...
+Something is wrong... by Luke Rowe
+Release 1 / Serial number 230118 / Inform 7 v10.1.2 / D
+
+Phone
+You are on your phone, scrolling endlessly with no end in sight.
+
+A water main broke, leaving New Orleans without drinking water, and the flooding here is getting worse after waters from Lake Pontchartrain broke through a levee. 
+ scroll 
+ The Crips &amp; Bloods tried to establish themselves here, and these guys killed them. Simple as that-gone! See you later! 
+ scroll 
+ Music Intro: Steve Lacy I wish I knew you wanted me I wish I knew, I wish I knew you wanted me I wish I knew, I wish I knew you wanted me 
+
+Slowly you begin to hear a high pitch sound. You start feeling an unease. Maybe you should put the phone down.
+
+You could also stay on your phone in your endless lull.  scrolling , maybe that feeling of unease could just be random. Go and see whats going on with your phone.  What time was it again?
+
+ I also have snapchat  I could go to... not really  a point probably.
+
+ You start with 5 sanity load
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x5602322b7780"/>
+    </children>
+  </item>
+  <item nodeId="node-0x5602322b7780">
+    <command xml:space="preserve">dp</command>
+    <result xml:space="preserve">
+Bedroom
+Your bedroom, the walls look kind of silly. Did the walls stucco always slide like that? Your bathroom is south of the Bedroom, the door to the outside to the east
+
+You can see Bottle (in which is liquid) here.
+
+ Your head throbs, your vision gets blurry. You stare at nothing for a little. You come back to.
+
+[Your score has just gone up by three points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x5602322b7c00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x5602322b7c00">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">I couldn&apos;t possibly go outside... I feel horrible, something isn&apos;t right
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+</Skein>
