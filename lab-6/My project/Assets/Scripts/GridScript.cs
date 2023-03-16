@@ -4,7 +4,12 @@ using UnityEngine;
 
 public class GridScript : MonoBehaviour
 {
-
+    public int startRow;
+    public int startCol;
+    public int finRow;
+    public int finCol;
+    public int wallRow;
+    public int wallCol;
     private int width = 10;
     private int height = 10;
     private GameObject[,] grid;
@@ -25,16 +30,13 @@ public class GridScript : MonoBehaviour
                 var s = g.AddComponent<SpriteRenderer>();
                 s.sprite = sprite;
                 s.color = Color.white;
+                g.AddComponent<Node> as Node(row,col, 0, 0);
             }
         }
 
         System.Random rnd = new System.Random();
-        int startRow = rnd.Next(10);
-        int startCol = rnd.Next(10);
-        int finRow;
-        int finCol;
-        int wallRow;
-        int wallCol;
+        startRow = rnd.Next(10);
+        startCol = rnd.Next(10);
         grid[startRow,startCol].transform.GetComponent<Renderer>().material.color = Color.green;
 
         if (startRow < 6) {
@@ -50,6 +52,7 @@ public class GridScript : MonoBehaviour
         wallCol = (startCol + finCol) / 2;
 
         grid[wallRow, wallCol].transform.GetComponent<Renderer>().material.color = Color.black;
+
 
 
     }
