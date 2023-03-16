@@ -1,0 +1,8 @@
+﻿Names: Cameron McGiffert, Nathan McCutchen, Luke Rowe
+Link:
+Character: Our main character's name was Alex. She followed the rebel archetype. She is a “cool” girl living a life drifting and going with the flow. She has a unique personality with a matching skater style. One of the core parts of her character is that she likes to help other people in need but also looks out for herself. She is a “baby sitter” and in our game she had the task of protecting and keeping her eye on a toddler who is running away and she has to beat a bunch of different obstacles just so she can keep her word and protect the child.
+
+
+Changes: Crouching animation was left out. For some reason in the line that I did with blueprint on unreal, I could not figure out how to get crouching to work. It should have been easy and it’s linked but for some reason I couldn’t figure out why the key was not acting. Additionally the build was not able to be finished. I will demo in lab, but for some reason, it would not allow me to build saying I was missing an SDK, when I was not.
+Visual Studio 2022 is installed, but is missing the C++ toolchain. Please verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (Latest)" component is selected in the Visual Studio 2022 installation options.
+I could not figure out this error for the life of me, I spent way too long trying various fixes.
