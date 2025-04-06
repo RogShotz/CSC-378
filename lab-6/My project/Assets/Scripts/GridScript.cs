@@ -30,7 +30,6 @@ public class GridScript : MonoBehaviour
                 var s = g.AddComponent<SpriteRenderer>();
                 s.sprite = sprite;
                 s.color = Color.white;
-                g.AddComponent<Node> as Node(row,col, 0, 0);
             }
         }
 
